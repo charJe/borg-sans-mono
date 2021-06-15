@@ -4,6 +4,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## 0.3.0 / 2021-06-15
+
+* Use standard postscript em width
+* Add italic and bold font variants
+
 ## 0.2.0 / 2016-01-27
 
 * Use underscores and dots in glyph names in a more conventional way. [#9]
